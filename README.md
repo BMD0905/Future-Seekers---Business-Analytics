@@ -1,4 +1,4 @@
-# [Future-Seekers-Business-Analytics](https://confirm.udacity.com/CPPY9GTS)
+# [Future Seekers-Business Analytics](https://confirm.udacity.com/CPPY9GTS)
 
 
 
