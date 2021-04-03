@@ -10,6 +10,8 @@ A large part of working with data is being able to interpret data visualizations
 
 
 
+
+
 ## Project 2: Analyzing NYSE Data
 
 ### Project description
@@ -24,11 +26,15 @@ Software used in this project: Microsoft Excel .
 
 
 
+
+
 ## Project 3: Predicting Diamond Prices
 
 ## Project description
 
 A jewelry company wants to put in a bid to purchase a large set of diamonds. Applying linear regression model to predict the price of a diamond based on its attributes and making a recommendation for how much the company should bid for the entire set.
+
+
 
 
 
