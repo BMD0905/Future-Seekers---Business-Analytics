@@ -34,6 +34,8 @@ Software used in this project: Microsoft Excel .
 
 A jewelry company wants to put in a bid to purchase a large set of diamonds. Applying linear regression model to predict the price of a diamond based on its attributes and making a recommendation for how much the company should bid for the entire set.
 
+Software used in this project: Microsoft Excel .
+
 
 -------------------------------------------------
 
