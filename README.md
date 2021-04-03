@@ -9,7 +9,7 @@
 A large part of working with data is being able to interpret data visualizations and explain the insights to others. Finding three insights in the visualizations. For each insight, I provide a static image that shares what I found. Writing a short report explaining each observation and how I found the information to reach my conclusion from the dashboard.
 
 
-
+-------------------------------------------------
 
 
 ## Project 2: Analyzing NYSE Data
@@ -25,7 +25,7 @@ Analyzing real life data from the New York Stock Exchange. The data is a subset 
 Software used in this project: Microsoft Excel .
 
 
-
+-------------------------------------------------
 
 
 ## Project 3: Predicting Diamond Prices
@@ -35,7 +35,7 @@ Software used in this project: Microsoft Excel .
 A jewelry company wants to put in a bid to purchase a large set of diamonds. Applying linear regression model to predict the price of a diamond based on its attributes and making a recommendation for how much the company should bid for the entire set.
 
 
-
+-------------------------------------------------
 
 
 ## Project 4: Building Data Dashboards
